@@ -4,7 +4,7 @@ import '../services/location_data.dart';
 import 'package:intl/intl.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-const String apiKey = 'c7ab3bddf49c658b216ba66fe2fe4163';
+const String apiKey = ''; //Enter API Key here
 
 class WeatherModel {
   (String, String) getTimeAndDate(int timestamp) {

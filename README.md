@@ -16,8 +16,9 @@ Clima Weather App is a mobile application for weather forecasting with a simple 
   
 ### Usage 🚀
 To run the app:
-1. Initialize your emulated device (Android Studio, etc.) or connect your mobile device in developer mode.
-2. Run the app from VS Code's debug mode.
+1. Generate your API key from [Open Weather API](https://openweathermap.org/api) and add it to the commented code in the weather.dart file.
+2. Initialize your emulated device (Android Studio, etc.) or connect your mobile device in developer mode.
+3. Run the app from VS Code's debug mode.
 
 ### Contributors 👥
 - [couldseeyah](https://github.com/your-username)
